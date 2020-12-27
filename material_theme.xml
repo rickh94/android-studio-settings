@@ -3,10 +3,10 @@
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="2aa198" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="6542ec6e:16781f2f136:-8000" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
