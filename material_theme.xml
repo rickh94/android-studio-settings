@@ -1,11 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="416a9b" />
+    <option name="tabsHeight" value="20" />
+    <option name="accentColor" value="d33682" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="6542ec6e:16781f2f136:-8000" />
     <option name="version" value="5.2.0" />
   </component>
